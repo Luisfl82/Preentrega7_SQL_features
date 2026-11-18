@@ -1,0 +1,5 @@
+data/features.csv
+*.duckdb
+__pycache__/
+.venv/
+.DS_Store
